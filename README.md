@@ -2,3 +2,4 @@
 Ignacio Tomas Molina
 Ramiro Cespedes
 Daniela George
+Carolina Gómez
